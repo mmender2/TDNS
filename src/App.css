@@ -1,0 +1,20 @@
+.textField{
+    margin-left: 150px;
+    margin-top: 500px;
+    position: relative;
+    align-items: center;
+}
+
+/* .title{
+    font-size:  7rem;
+    background: -webkit-linear-gradient(left, rgb(67, 124, 205), rgb(69,214,202));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+} */
